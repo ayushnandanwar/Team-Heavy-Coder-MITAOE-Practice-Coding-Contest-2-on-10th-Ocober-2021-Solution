@@ -3,10 +3,8 @@
 using namespace std;
 /*  
     Square
-           r  c
     Input: 
     8  7
-    
     Output:
     *  *  *  *  *  *  *  
     *                 *  
@@ -16,7 +14,6 @@ using namespace std;
     *                 *  
     *                 *  
     *  *  *  *  *  *  *             
-
 */
 
 int main(){
